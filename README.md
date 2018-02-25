@@ -14,14 +14,12 @@ To Run the TestNG test on android
     
 To Run the Cucumber test
 
-    * mvn validate && Platorm="android" mvn clean -Dtest=RunnerCukes test
+    * mvn validate && Platform="android" mvn clean -Dtest=RunnerCukes test
     
 
-1.Please make sure you have capabilities.json  under caps folder.
+RUNNER value in config.properties can be set with parallel or distribute. (Parallel will run the same test cases across devices & distribute will split the test cases randomly across devices)
 
-2.RUNNER value in config.properties can be set with parallel or distribute. (Parallel will run the same test cases across devices & distribute will split the test cases randomly across devices)
-
-3.No need to start appium server externally , framework takes case of starting and shutting down the server for you.
+No need to start appium server externally , framework takes care of starting and shutting down the server for you.
 
 Post Run :
 
