@@ -34,3 +34,4 @@ https://github.com/saikrishna321/AppiumTestDistribution
 [![ScreenShot](https://i.imgur.com/JDuyRX9.jpg)](https://www.youtube.com/watch?v=sf0YARF5ppQ&t=2s)
 
 Please refer the AppiumTestDistribution Framework for hacks :: https://github.com/saikrishna321/AppiumTestDistribution
+
